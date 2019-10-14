@@ -11,7 +11,8 @@
 .mtj.tmp/
 
 # Package Files #
-*.jar
+#*.jar
+HuKtcBase.jar
 *.war
 *.nar
 *.ear
